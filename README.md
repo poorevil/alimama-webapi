@@ -21,11 +21,12 @@
 - 直接去阿里妈妈后台的超级搜索页面采集
 - 其他方式...
 
-![image](https://github.com/poorevil/alimama-webapi/blob/master/readme_resource/dataoke.png)
+<img width="150" height="150" src="https://github.com/poorevil/alimama-webapi/blob/master/readme_resource/dataoke.png"/>
 
-![image](https://github.com/poorevil/alimama-webapi/blob/master/readme_resource/shihuizhu.png)
+<img width="150" height="150" src="https://github.com/poorevil/alimama-webapi/blob/master/readme_resource/shihuizhu.png"/>
 
-![image](https://github.com/poorevil/alimama-webapi/blob/master/readme_resource/alimama_search.png)
+<img width="150" height="150" src="https://github.com/poorevil/alimama-webapi/blob/master/readme_resource/alimama_search.png"/>
+
 
 ## 非淘宝开放平台api
 主要是一般人申请不了淘客权限
