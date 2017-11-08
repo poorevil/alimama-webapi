@@ -15,6 +15,17 @@
 # 思路
 
 ## 商品数据采集
+商品数据采集主要有两种方式：
+
+- 采集市面上比较大的淘客平台发布站点，如：实惠猪、淘客助手、大淘客、好单库等等网站
+- 直接去阿里妈妈后台的超级搜索页面采集
+- 其他方式...
+
+![image](https://github.com/poorevil/alimama-webapi/blob/master/readme_resource/dataoke.png)
+
+![image](https://github.com/poorevil/alimama-webapi/blob/master/readme_resource/shihuizhu.png)
+
+![image](https://github.com/poorevil/alimama-webapi/blob/master/readme_resource/alimama_search.png)
 
 ## 非淘宝开放平台api
 主要是一般人申请不了淘客权限
