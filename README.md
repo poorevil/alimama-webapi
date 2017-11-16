@@ -73,11 +73,16 @@
 
 <img width="350" src="https://github.com/poorevil/alimama-webapi/blob/master/readme_resource/yongjinjihua2.png"/>
 
+当然，可能有更牛逼的方法，请知道的同学进行补充~
 
+## 创建淘客连接
+
+这里就是通过阿里妈妈后台直接创建淘客连接就ok了。此部分略~
 
 ## 创建商品、店铺优惠券
 
-## 创建淘客连接
+与创建淘客连接操作一样。此部分略~
+
 
 
 # 实现
