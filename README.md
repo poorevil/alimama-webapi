@@ -67,6 +67,14 @@
 
 ## 申请淘客高佣计划
 
+一般的，直接用阿里妈妈后台的超级搜索进行生成淘客连接就已经完成工作了。但是佣金并不是最高的，因为，好多商家都创建了自己的高佣店铺计划（这里面又分自动审核通过和人工审核通过的），我们可以通过对比找到佣金最高的计划进行申请，如果是自动审核，那么就自动生效了~
+
+<img width="350" src="https://github.com/poorevil/alimama-webapi/blob/master/readme_resource/yongjinjihua1.png"/>
+
+<img width="350" src="https://github.com/poorevil/alimama-webapi/blob/master/readme_resource/yongjinjihua2.png"/>
+
+
+
 ## 创建商品、店铺优惠券
 
 ## 创建淘客连接
