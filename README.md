@@ -123,7 +123,7 @@
 
 以下是相关项目：
 
-- <a href="https://github.com/poorevil/tkspider">爬虫项目</a>
+- <a href="https://github.com/poorevil/tkspider" target="_blank">爬虫项目</a>
 - <a href="#">生成淘客连接项目</a>
 
 
